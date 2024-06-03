@@ -26,11 +26,11 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ‎♕︎𝙷𝙸 @${m.sender.split`@`[0]} ❀!!
--------᪥ᴍᴏʜᴄɪɴᴇʙᴏᴛ᪥-------
+-------᪥essaouidi-bot᪥-------
 -👑ɢʀᴏᴜᴘ ᴡʜᴀᴛsᴀᴘᴘ ᴏғғɪᴄɪᴀʟ👑-
-https://chat.whatsapp.com/FQo0sqzNGBY44OdY7A5ty5
+https://chat.whatsapp.com/DC3fMtolhr28lT3jgZga2I
 -⭕ɪɴsᴛᴀɢʀᴀᴍ ᴏғ ᴛʜᴇ ᴏᴡɴᴇʀ⭕-
--www.instagram.com/mh7__x
+-www.instagram.com/essaouidi_yassine-
 ┏━━━━━━━━━━━━━━┓
 ‎☆------ᴅᴏᴡɴʟᴏᴀᴅᴇʀ-----☆
 ┗━━━━━━━━━━━━━━┛
@@ -90,7 +90,7 @@ mediaUrl: null,
 title: '👑ʙᴏᴛ ᴍᴀʀᴏᴄ 24/7 👑',
 body: null,
 thumbnail: img,
-sourceUrl: `https://www.instagram.com/mh7__x`
+sourceUrl: `https://www.instagram.com/essaouidi_yassine`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
